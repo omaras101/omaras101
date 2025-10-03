@@ -30,7 +30,7 @@
 
 ### 🌱 I’m currently learning and eager to master:
 
-* Advanced **State Management** solutions like **BLoC**
+<!--* Advanced **State Management** solutions like **BLoC**-->
 * Architectural patterns like **Clean Architecture** and **MVVM**
 * Writing robust and **scalable Dart code** for complex applications
 
