@@ -44,7 +44,7 @@ I also have experience in **front-end web development** (HTML, CSS, JavaScript, 
 
 | Project            | Description                                                                             | Technologies              | Repo                                                       |
 | :----------------- | :-------------------------------------------------------------------------------------- | :------------------------ | :--------------------------------------------------------- |
-| **💬 Chat App**    | Real-time messaging app with authentication and cloud storage.                          | Flutter · Firebase · Dart | [View on GitHub](#)                                        |
+| **💬 Chat App**    | Real-time messaging app with authentication and cloud storage.                          | Flutter · Firebase · Dart | [View on GitHub](https://github.com/omaras101/scholar_chat_app)                                        |
 | **📰 News App**    | Displays live news articles with a clean, responsive UI.                                | Flutter · REST API · HTTP | [View on GitHub](https://github.com/omaras101/news_app)    |
 | **☀️ Weather App** | Live weather app with **themes that change automatically based on weather conditions**. | Flutter · REST API · Dart | [View on GitHub](https://github.com/omaras101/weather_app) |
 
